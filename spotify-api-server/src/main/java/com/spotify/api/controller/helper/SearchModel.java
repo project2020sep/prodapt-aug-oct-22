@@ -1,8 +1,6 @@
 package com.spotify.api.controller.helper;
 
-/**
- * Created by Fatih Totrakanli on 31/05/2017.
- */
+
 public class SearchModel {
 
     private String query;
