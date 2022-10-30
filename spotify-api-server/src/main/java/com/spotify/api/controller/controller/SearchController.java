@@ -16,9 +16,6 @@ import java.io.InputStreamReader;
 
 import static org.apache.http.HttpHeaders.USER_AGENT;
 
-/**
- * Created by Fatih Totrakanli on 31/05/2017.
- */
 
 @RestController
 @RequestMapping(value = "search")
